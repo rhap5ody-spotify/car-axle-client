@@ -1,6 +1,5 @@
 # new
-- added a index.html file to run the js,c,and ts files
-
+not really continuing this repository but will be adding it and computing it into a html file so you can run it on your computer.
 
 
 
